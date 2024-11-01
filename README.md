@@ -52,7 +52,7 @@ I started getting interested in programming while still working as an automation
 ## My road map
 - [x] [Python](https://github.com/ofrsed/Notes/blob/main/Python/python_notes.md)
 - [x] Linux
-- [x] Sql
+- [x] [SQL](https://github.com/ofrsed/Notes/blob/main/SQL/sql_notes.md)
 
 ## interview questions
 
