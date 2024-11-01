@@ -13,7 +13,7 @@
 
 ## Intro
 
-I started getting interested in programming while still working as an automation engineer. My acquaintance began with Arduino (C++), but then I got interested in Python. After some time, the company closed, and I decided to delve even deeper into IT. And this is, of course, complete madness 🧐. I spent almost a year looking for a job, surviving on Telegram bots, small sites and parsing 🫡 (Press F). Now I am putting my efforts into a cool company.
+I started getting interested in programming while still working as an automation engineer. My acquaintance began with Arduino (C++), but then I got interested in Python. After some time, the company closed, and I decided to delve even deeper into IT. And this is, of course, complete madness 🧐. I spent almost a year looking for a job, surviving on Telegram bots, small sites and parsing :anguished: (Press F). Now I am putting my efforts into a cool company.
 
 ## Language and Tools
 <div>
