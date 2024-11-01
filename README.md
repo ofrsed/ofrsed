@@ -34,7 +34,7 @@
 ### Certificates
 <h1>
   hey there
-  <img src="https://github.com/ofrsed/ofrsed/blob/main/Git%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D1%81%D0%B5%D1%85.PNG" width="30px"/>
+  <img src="https://github.com/ofrsed/ofrsed/blob/main/Git%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D1%81%D0%B5%D1%85.PNG" width="300px"/>
 </h1>
 
 
