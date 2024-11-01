@@ -55,7 +55,7 @@ I started getting interested in programming while still working as an automation
 - [x] [SQL](https://github.com/ofrsed/Notes/blob/main/SQL/sql_notes.md)
 
 ## interview questions
-
+[for interview](https://github.com/ofrsed/Notes/blob/main/interview_questions.md)
 <!--
 **ofrsed/ofrsed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
