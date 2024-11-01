@@ -50,8 +50,9 @@ I started getting interested in programming while still working as an automation
 </div>
 
 ## My road map
-- [x] Задача 1
-- [x] Задача 1
+- [x] [Python](https://github.com/ofrsed/Notes/blob/main/Python/python_notes.md)
+- [x] Linux
+- [x] Sql
 
 
 <!--
