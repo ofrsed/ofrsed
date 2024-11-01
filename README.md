@@ -49,9 +49,14 @@ I started getting interested in programming while still working as an automation
 </h1>
 </div>
 
+## My road map
+- [x] Задача 1
+- [x] Задача 1
+
 
 <!--
 **ofrsed/ofrsed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
