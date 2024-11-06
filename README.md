@@ -50,11 +50,18 @@ I started getting interested in programming while still working as an automation
 </div>
 
 ## My road map
-| Programming language | Programming language |Programming language|
-| ----- | ----- | ----- |
-|[]  | - [x] | []  |
+
 - Programming language
   - [x] [Python](https://github.com/ofrsed/Notes/blob/main/Python/python_notes.md)
+    - [x] OOP
+    - [ ] Asynsio
+    - [x] Aiogram
+    - [x] BeautifulSoup4
+    - [x] Selenium
+    - [x] Django
+    - [x] Flask
+  - [x] [PHP]
+
 - Databases and SQL
   - [x] [SQL](https://github.com/ofrsed/Notes/blob/main/SQL/sql_notes.md)
 - Data structures and algorithms
