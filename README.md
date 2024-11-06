@@ -52,7 +52,7 @@ I started getting interested in programming while still working as an automation
 ## My road map
 | Programming language | Programming language |Programming language|
 | ----- | ----- | ----- |
-| <input type="checkbox" disabled> [Python](https://github.com/ofrsed/Notes/blob/main/Python/python_notes.md) | - [x] [Python](https://github.com/ofrsed/Notes/blob/main/Python/python_notes.md) | [x] [Python](https://github.com/ofrsed/Notes/blob/main/Python/python_notes.md) |
+|[]  | - [x] | []  |
 - Programming language
   - [x] [Python](https://github.com/ofrsed/Notes/blob/main/Python/python_notes.md)
 - Databases and SQL
