@@ -50,9 +50,11 @@ I started getting interested in programming while still working as an automation
 </div>
 
 ## My road map
-- [x] [Python](https://github.com/ofrsed/Notes/blob/main/Python/python_notes.md)
-- [x] Linux
-- [x] [SQL](https://github.com/ofrsed/Notes/blob/main/SQL/sql_notes.md)
+| Programming language | Databases and SQL | Data structures and algorithms | VCS | CaaS | IDE |  |
+| --- | --- |
+| - [x] [Python](https://github.com/ofrsed/Notes/blob/main/Python/python_notes.md) | - [x] [SQL](https://github.com/ofrsed/Notes/blob/main/SQL/sql_notes.md) | - [ ] Grokking Algorithms | [x] [Git] | [x] [Docker] | [x] [Pycharm] | - [x] Linux |
+
+
 
 ## interview questions
 [for interview](https://github.com/ofrsed/Notes/blob/main/interview_questions.md)
