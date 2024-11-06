@@ -53,10 +53,7 @@ I started getting interested in programming while still working as an automation
 
 | | |
 | --- | --- |
-| Programming language | Programming language
-  - [x] [Python](https://github.com/ofrsed/Notes/blob/main/Python/python_notes.md)
-    - [x] OOP
-    - [ ] Asynsio
+| Programming language |   - [x] [Python](https://github.com/ofrsed/Notes/blob/main/Python/python_notes.md)     - [x] OOP     - [ ] Asynsio
     - [x] Aiogram
     - [x] BeautifulSoup4
     - [x] Selenium
