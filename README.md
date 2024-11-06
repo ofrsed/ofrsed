@@ -65,7 +65,7 @@ Programming language
 - Databases and SQL
   - [x] [SQL](https://github.com/ofrsed/Notes/blob/main/SQL/sql_notes.md)
 - Data structures and algorithms
-  - [ ] Grokking Algorithms
+  - [x] [Grokking Algorithms](https://github.com/ofrsed/ofrsed/blob/main/Grokaem_algoritmy.pdf)
 - VCS
   - [x] [Git]
 - CaaS
