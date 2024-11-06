@@ -49,7 +49,7 @@ I started getting interested in programming while still working as an automation
 </h1>
 </div>
 
-## Notes
+## Notes / Road map
 
 - Programming language
   - [x] [Python](https://github.com/ofrsed/Notes/blob/main/Python/python_notes.md)
