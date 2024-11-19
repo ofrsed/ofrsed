@@ -72,7 +72,7 @@ Programming language
 - CaaS
   - [x] Docker
 - Operating System
-  - [x] [Linux](https://github.com/ofrsed/Notes/blob/main/Linus/linux_notes.md)
+  - [x] [Linux](https://github.com/ofrsed/Notes/blob/main/Linux/linux_notes.md)
   - [x] Windows 
 
 
