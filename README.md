@@ -71,7 +71,9 @@ Programming language
   - [x] Git
 - CaaS
   - [x] Docker
-
+- Operating System
+  - [x] [Linux](https://github.com/ofrsed/Notes/blob/main/Linus/linux_notes.md)
+  - [x] Windows 
 
 
 
