@@ -60,17 +60,17 @@ Programming language
     - [x] Selenium
     - [x] Django
     - [x] Flask
-  - [x] [PHP]
+  - [x] PHP
 
 - Databases and SQL
   - [x] [SQL](https://github.com/ofrsed/Notes/blob/main/SQL/sql_notes.md)
-  - [x] [Redis](https://github.com/ofrsed/Notes/blob/main/SQL/redis_notes.md)
+  - [x] Redis
 - Data structures and algorithms
   - [x] [Grokking Algorithms](https://github.com/ofrsed/ofrsed/blob/main/Grokaem_algoritmy.pdf)
 - VCS
-  - [x] [Git]
+  - [x] Git
 - CaaS
-  - [x] [Docker]
+  - [x] Docker
 
 
 
