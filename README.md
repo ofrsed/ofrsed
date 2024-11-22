@@ -55,10 +55,10 @@ Programming language
   - [x] [Python](https://github.com/ofrsed/Notes/blob/main/Python/python_notes.md)
     - [x] [OOP](https://github.com/ofrsed/Notes/blob/main/Python/python_oop_notes.md)
     - [ ] Frameworks
-    - [ ] Studied
-      - [x] Asynsio, Aiogram, BeautifulSoup4, Selenium, Django, Flask
-    - [ ] Planned
-      - [ ] Pandas
+      - [ ] Studied
+        - [x] Asynsio, Aiogram, BeautifulSoup4, Selenium, Django, Flask
+      - [ ] Planned
+        - [ ] Pandas
   - [x] PHP
 
 - Databases and SQL
