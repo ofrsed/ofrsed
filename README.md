@@ -55,7 +55,7 @@ Programming language
   - [x] [Python](https://github.com/ofrsed/Notes/blob/main/Python/python_notes.md)
     - [x] [OOP](https://github.com/ofrsed/Notes/blob/main/Python/python_oop_notes.md)
     - [ ] Asynsio
-    - [x] Aiogram
+    - [x] Aiogram, [BeautifulSoup4](https://github.com/ofrsed/Notes/blob/main/Python/python_oop_notes.md), [BeautifulSoup4](https://github.com/ofrsed/Notes/blob/main/Python/python_oop_notes.md), [BeautifulSoup4](https://github.com/ofrsed/Notes/blob/main/Python/python_oop_notes.md), [BeautifulSoup4](https://github.com/ofrsed/Notes/blob/main/Python/python_oop_notes.md), [BeautifulSoup4](https://github.com/ofrsed/Notes/blob/main/Python/python_oop_notes.md), 
     - [x] BeautifulSoup4
     - [x] Selenium
     - [x] Django
