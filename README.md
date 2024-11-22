@@ -54,11 +54,9 @@ I started getting interested in programming while still working as an automation
 Programming language
   - [x] [Python](https://github.com/ofrsed/Notes/blob/main/Python/python_notes.md)
     - [x] [OOP](https://github.com/ofrsed/Notes/blob/main/Python/python_oop_notes.md)
-    - [ ] Frameworks
-      - [ ] Studied
-        - [x] Asynsio, Aiogram, BeautifulSoup4, Selenium, Django, Flask
-      - [ ] Planned
-        - [ ] Pandas
+    - [x] Frameworks
+      - [x] Asynsio, Aiogram, BeautifulSoup4, Selenium, Django, Flask
+      - [ ] Pandas
   - [x] PHP
 
 - Databases and SQL
