@@ -63,7 +63,7 @@ Programming language
   - [x] [SQL](https://github.com/ofrsed/Notes/blob/main/SQL/sql_notes.md)
   - [x] Redis
 - Data structures and algorithms
-  - [x] [Структуры данных]([https://github.com/ofrsed/ofrsed/blob/main/Grokaem_algoritmy.pdf](https://github.com/ofrsed/Notes/blob/main/data%20structures%20and%20algorithms/data%20structures.md)) 
+  - [x] [Структуры данных](https://github.com/ofrsed/Notes/blob/main/data%20structures%20and%20algorithms/data%20structures.md) 
   - [x] [Grokking Algorithms](https://github.com/ofrsed/ofrsed/blob/main/Grokaem_algoritmy.pdf)
 - VCS
   - [x] Git
