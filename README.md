@@ -68,9 +68,9 @@ Programming language
 - VCS
   - [x] Git
 - CaaS
-  - [x] Docker
+  - [x] [Docker](https://github.com/ofrsed/ofrsed/blob/main/Grokaem_algoritmy.pdf)
 - Operating System
-  - [x] [Linux](https://github.com/ofrsed/Notes/blob/main/Linux/linux_notes.md)
+  - [x] [Linux](https://github.com/ofrsed/Notes/blob/main/docker.md)
   - [x] Windows 
 
 
