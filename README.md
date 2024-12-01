@@ -56,7 +56,7 @@ Programming language
     - [x] [OOP](https://github.com/ofrsed/Notes/blob/main/Python/python_oop_notes.md)
     - [x] Frameworks
       - [x] [Asynsio](https://github.com/ofrsed/Notes/blob/main/Python/Frameworks/asyncio.md), Aiogram, BeautifulSoup4, Selenium, Django, Flask
-      - [ ] Pandas
+      - [ ] Pandas, NumPy
   - [x] PHP
 
 - Databases and SQL
