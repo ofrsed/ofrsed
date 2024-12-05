@@ -68,9 +68,9 @@ Programming language
   - [x] [Grokking Algorithms](https://github.com/ofrsed/ofrsed/blob/main/Grokaem_algoritmy.pdf)
 - VCS
   - [x] Git
-- CaaS
-  - [x] [Docker](https://github.com/ofrsed/Notes/blob/main/docker.md)
-  - [x] [Брокеры сообщений](https://github.com/ofrsed/Notes/blob/main/message_broker.md)
+- Communication as a Service
+  - [x] [Docker](https://github.com/ofrsed/Notes/blob/main/communication_as_a_service/docker.md)
+  - [x] [Брокеры сообщений](https://github.com/ofrsed/Notes/blob/main/communication_as_a_service/message_broker.md)
 - Operating System
   - [x] [Linux](https://github.com/ofrsed/Notes/blob/main/Linux/linux_notes.md)
   - [x] Windows 
