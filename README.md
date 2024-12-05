@@ -70,6 +70,7 @@ Programming language
   - [x] Git
 - CaaS
   - [x] [Docker](https://github.com/ofrsed/Notes/blob/main/docker.md)
+  - [x] [Брокеры сообщений](https://github.com/ofrsed/Notes/blob/main/message_broker.md)
 - Operating System
   - [x] [Linux](https://github.com/ofrsed/Notes/blob/main/Linux/linux_notes.md)
   - [x] Windows 
