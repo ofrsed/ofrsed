@@ -79,6 +79,9 @@ Programming language
 
 ## interview questions
 [for interview](https://github.com/ofrsed/Notes/blob/main/interview_questions.md)
+[Памятка PHP/GoLang разработчику](https://backendinterview.ru/os)
+
+
 <!--
 **ofrsed/ofrsed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
