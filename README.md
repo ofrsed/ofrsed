@@ -79,7 +79,11 @@ Programming language
 
 ## interview questions
 [for interview](https://github.com/ofrsed/Notes/blob/main/interview_questions.md)
+
 [Памятка PHP/GoLang разработчику](https://backendinterview.ru/os)
+
+[math](https://github.com/ofrsed/Notes/blob/main/math.md)
+
 
 
 <!--
