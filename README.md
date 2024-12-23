@@ -40,7 +40,7 @@ I started getting interested in programming while still working as an automation
 <h1>
   <img src="https://github.com/ofrsed/ofrsed/blob/main/certificates/1-1.png" width="200px"/>
   <img src="https://github.com/ofrsed/ofrsed/blob/main/certificates/2-1.png" width="200px"/>
-  <img src="https://github.com/ofrsed/ofrsed/blob/main/certificates/3-1.png.PNG" width="200px"/>
+  <img src="https://github.com/ofrsed/ofrsed/blob/main/certificates/3-1.png" width="200px"/>
   <img src="https://github.com/ofrsed/ofrsed/blob/main/certificates/4-1.png" width="200px"/>
   <img src="https://github.com/ofrsed/ofrsed/blob/main/certificates/5-1.png" width="200px"/>
   <img src="https://github.com/ofrsed/ofrsed/blob/main/certificates/6-1.png" width="200px"/>
