@@ -92,6 +92,7 @@ Programming language
 
 [math](https://github.com/ofrsed/Notes/blob/main/math.md)
 
+[Список задач (обучение)](https://github.com/ofrsed/Notes/blob/main/task_list.md)
 
 
 <!--
