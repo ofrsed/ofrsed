@@ -98,6 +98,10 @@ Programming language
 - [ ] [🎥](https://www.youtube.com/watch?v=HemPVRvVm40&list=PLBP4Q3FNSLK2EujXiPUeTIOVnydZS8YJk) __Pandas__
 - [ ] [🎥](https://www.youtube.com/watch?v=gA3A_epB3So&t=755s) __База по оптимизации PostgreSQL__
 - [ ] 🌐 __K8S__
+- [ ] 🌐 __модуль OS__
+- [ ] 🌐 __Chrome DevTools__
+- [ ] 🌐 __1C__
+- [ ] 🌐 __Bitrix__
 
 </details>
 <details>
