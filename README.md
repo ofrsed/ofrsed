@@ -107,6 +107,7 @@ Programming language
 <details>
   <summary>Завершенные задачи</summary>
 
+от 15.02
 - [x] [📚](https://stepik.org/course/199114/syllabus) Брокеры сообщений. Apache Kafka
 
 </details>
