@@ -101,6 +101,7 @@ Programming language
 - [ ] 🌐 __Chrome DevTools__
 - [ ] 🌐 __1C__
 - [ ] 🌐 __Bitrix__
+- [ ] 🌐 __Балансировщики нагрузки__
 
 </details>
 <details>
