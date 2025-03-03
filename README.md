@@ -91,7 +91,6 @@ Programming language
 <details>
   <summary>Запланированные задачи</summary>
 
-- [ ] [🎥](https://www.youtube.com/watch?v=bcMZGPIeGzk) __Middleware in FastAPI__
 - [ ] 📚 __Поколение Python: алгоритмы и структуры данных__ - курс выходит 1 апреля  
 - [ ] [📚](https://stepik.org/course/193691/syllabus) __C/C++__
 - [ ] [🎥](https://www.youtube.com/watch?v=eDuuKvIWzew&list=PLA0M1Bcd0w8zmegfAUfFMiACPKfdW4ifD) __NumPy__
@@ -109,6 +108,7 @@ Programming language
 
 от 15.02
 - [x] [📚](https://stepik.org/course/199114/syllabus) Брокеры сообщений. Apache Kafka
+- [x] [🎥](https://www.youtube.com/watch?v=bcMZGPIeGzk) __Middleware in FastAPI__
 
 </details>
 
