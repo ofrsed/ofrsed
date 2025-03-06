@@ -122,6 +122,9 @@ Programming language
 
 [math](https://github.com/ofrsed/Notes/blob/main/math.md)
 
+[база #2](https://github.com/yakimka/python_interview_questions)
+
+
 
 
 <!--
