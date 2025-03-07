@@ -105,6 +105,7 @@ Programming language
 - [ ] 🌐 __sqlalchemy (доп.)__
 - [ ] 🌐 __WSGI__
 - [ ] 🌐 __TDD__
+- [ ] 🌐 __профилирование__
 
 sqlalchemy 
 </details>
