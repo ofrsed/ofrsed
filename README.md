@@ -102,7 +102,11 @@ Programming language
 - [ ] 🌐 __1C__
 - [ ] 🌐 __Bitrix__
 - [ ] 🌐 __Балансировщики нагрузки__
+- [ ] 🌐 __sqlalchemy (доп.)__
+- [ ] 🌐 __WSGI__
+- [ ] 🌐 __TDD__
 
+sqlalchemy 
 </details>
 <details>
   <summary>Завершенные задачи</summary>
