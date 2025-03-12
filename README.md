@@ -116,7 +116,7 @@ sqlalchemy
 - [x] [📚](https://stepik.org/course/199114/syllabus) Брокеры сообщений. Apache Kafka
 - [x] [🎥](https://www.youtube.com/watch?v=bcMZGPIeGzk) __Middleware in FastAPI__
 - [x] [🎥](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb) __GIT (пусть хранится тут)__
-
+- [x] [🎥](https://www.youtube.com/watch?v=dKxiHlZvULQ) __Типизирование (пусть хранится тут)__
 
 </details>
 
