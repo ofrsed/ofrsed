@@ -66,7 +66,7 @@ Programming language
       - [x] [Asyncio](https://github.com/ofrsed/Notes/blob/main/Python/Frameworks/asyncio.md), [Multithreading](https://github.com/ofrsed/Notes/blob/main/Python/Frameworks/multithreading.md),  [Matplotlib](https://github.com/ofrsed/Notes/blob/main/Python/Frameworks/matplotlib.md), Aiogram, BeautifulSoup4, Selenium, Django, Flask
       - [ ] Pandas, NumPy
   - [ ] [C++](https://github.com/ofrsed/Notes/blob/main/%D0%A1/C%2B%2B.md)
-  - [ ] [JS](https://github.com/ofrsed/Notes/blob/main/%D0%A1/js.md)
+  - [ ] [JS](https://github.com/ofrsed/Notes/blob/main/JavaScript/javascript_notes.md)
   - [x] PHP
 
 - Databases and SQL
