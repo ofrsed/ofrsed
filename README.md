@@ -70,6 +70,7 @@ Programming language
   - [x] PHP
 
 - Databases and SQL
+  - [x] [Neo4j](https://github.com/ofrsed/Notes/blob/main/neo4j/neo4j_notes.md)
   - [x] [SQL](https://github.com/ofrsed/Notes/blob/main/SQL/sql_notes.md)
   - [x] Redis
 - Data structures and algorithms
