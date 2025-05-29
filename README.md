@@ -79,6 +79,7 @@ Programming language
 - VCS
   - [x] Git
 - Communication as a Service
+  - [x] [k8s](https://github.com/ofrsed/Notes/blob/main/communication_as_a_service/k8s.md)
   - [x] [Docker](https://github.com/ofrsed/Notes/blob/main/communication_as_a_service/docker.md)
   - [x] [Брокеры сообщений](https://github.com/ofrsed/Notes/blob/main/communication_as_a_service/message_broker.md)
 - Operating System
