@@ -89,7 +89,7 @@ Programming language
 
 ## Tasks
 
-- [ ] [🎥](https://www.youtube.com/watch?v=WlCDcr8JYFU) __Clean Architecture__ 5:57
+- [ ] [🎥](https://www.youtube.com/watch?v=WlCDcr8JYFU) __Clean Architecture__ 5:57 6:03-7:10
 
 <details>
   <summary>Запланированные задачи</summary>
