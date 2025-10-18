@@ -123,6 +123,13 @@ sqlalchemy
 
 </details>
 
+## Hot Keys
+
+`alembic revision --autogenerate`
+
+`alembic upgrade head`
+
+`alembic stamp head`
 
 
 ## interview questions
