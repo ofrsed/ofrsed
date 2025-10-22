@@ -125,6 +125,8 @@ sqlalchemy
 
 ## Hot Keys
 
+`DELETE FROM alembic_version;`
+
 `alembic revision --autogenerate`
 
 `alembic upgrade head`
