@@ -1,4 +1,4 @@
-
+ls /dev/input/event* && sudo dmesg | grep -i "ads7846\|touch" | tail -20
 ## Hi there 👋
 <div id="header" align="center">
   <img src="https://github.com/ofrsed/ofrsed/blob/main/bongo-cat-typing.gif" width="100"/>
