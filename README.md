@@ -1,4 +1,6 @@
-
+ls /dev/input/event*
+i2cdetect -y 1
+sudo dmesg | grep Goodix
 
 ## Hi there 👋
 <div id="header" align="center">
