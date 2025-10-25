@@ -1,13 +1,4 @@
-/input/event1  /dev/input/event4  /dev/input/event7
-/dev/input/event2  /dev/input/event5  /dev/input/event8
-[sudo] password for root1: 
-root1@raspberrypi:~ $ 
-dtoverlay -l && ls /boot/overlays/ads7846* && echo "=== Trying to load ===" && sudo dtoverlay ads7846 && dmesg | tail -20
-No overlays loaded
-/boot/overlays/ads7846.dtbo
-=== Trying to load ===
-* Failed to apply overlay '0_ads7846' (kernel)
-root1@raspberrypi:~ $ 
+sudo apt-get install xserver-xorg-input-evdev
 
 ## Hi there 👋
 <div id="header" align="center">
