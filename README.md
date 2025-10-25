@@ -1,32 +1,3 @@
-errypi:~ $ ls /dev/input/event* i2cdetect 1 sudo dmesg | grep Goodix
-ls: cannot access 'i2cdetect': No such file or directory
-ls: cannot access '1': No such file or directory
-ls: cannot access 'sudo': No such file or directory
-ls: cannot access 'dmesg': No such file or directory
-root1@raspberrypi:~ $ ls /dev/input/event* 
-/dev/input/event0  /dev/input/event3  /dev/input/event6  /dev/input/event9
-/dev/input/event1  /dev/input/event4  /dev/input/event7
-/dev/input/event2  /dev/input/event5  /dev/input/event8
-root1@raspberrypi:~ $ i2cdetect -y 1
-     0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
-00:                         -- -- -- -- -- -- -- -- 
-10: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
-20: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
-30: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
-40: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
-50: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
-60: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
-70: -- -- -- -- -- -- -- --                         
-root1@raspberrypi:~ $ sudo dmesg | grep Goodix
-[sudo] password for root1: 
-[   16.124242] Goodix-TS 1-0014: supply AVDD28 not found, using dummy regulator
-[   16.124345] Goodix-TS 1-0014: supply VDDIO not found, using dummy regulator
-[   16.215260] Goodix-TS 1-0014: Error reading 1 bytes from 0x8140: -5
-[   16.239262] Goodix-TS 1-0014: Error reading 1 bytes from 0x8140: -5
-[   16.263009] Goodix-TS 1-0014: I2C communication failure: -5
-[   16.263157] Goodix-TS 1-0014: probe with driver Goodix-TS failed with error -5
-root1@raspberrypi:~ $ 
-
 
 ## Hi there 👋
 <div id="header" align="center">
