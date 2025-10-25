@@ -1,5 +1,3 @@
-sudo apt-get install xserver-xorg-input-libinput tslib libts-bin
-
 ## Hi there 👋
 <div id="header" align="center">
   <img src="https://github.com/ofrsed/ofrsed/blob/main/bongo-cat-typing.gif" width="100"/>
