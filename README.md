@@ -1,4 +1,4 @@
-sudo apt-get install xserver-xorg-input-evdev
+sudo apt-get install xserver-xorg-input-libinput tslib libts-bin
 
 ## Hi there 👋
 <div id="header" align="center">
