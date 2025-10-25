@@ -1,4 +1,4 @@
-
+i2cdetect -y 1 && echo "===== I2C BUS 1 =====" && i2cdetect -y 0 && echo "===== I2C BUS 0 =====" && sudo dmesg | grep -i -E "touch|goodix|edt|i2c" | tail -30 && echo "===== INPUT DEVICES =====" && ls -la /dev/input/ && echo "===== CONFIG.TXT =====" && cat /boot/config.txt | grep -A5 -B5 "dtoverlay"
 ## Hi there 👋
 <div id="header" align="center">
   <img src="https://github.com/ofrsed/ofrsed/blob/main/bongo-cat-typing.gif" width="100"/>
