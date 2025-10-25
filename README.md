@@ -1,10 +1,4 @@
-oot1@raspberrypi:~ $ 
-ls /dev/input/event* && sudo dmesg | grep -i "ads7846|touch" | tail -20
-/dev/input/event0  /dev/input/event3  /dev/input/event6  /dev/input/event9
-/dev/input/event1  /dev/input/event4  /dev/input/event7
-/dev/input/event2  /dev/input/event5  /dev/input/event8
-[sudo] password for root1: 
-root1@raspberrypi:~ $ 
+dtoverlay -l && ls /boot/overlays/ads7846* && echo "=== Trying to load ===" && sudo dtoverlay ads7846 && dmesg | tail -20
 
 ## Hi there 👋
 <div id="header" align="center">
