@@ -1,3 +1,12 @@
+curl -fsSL https://get.docker.com -o get-docker.sh
+sudo sh get-docker.sh
+
+sudo docker --version
+
+sudo apt update
+sudo apt install docker-compose -y
+docker-compose --version
+
 ## Hi there 👋
 <div id="header" align="center">
   <img src="https://github.com/ofrsed/ofrsed/blob/main/bongo-cat-typing.gif" width="100"/>
