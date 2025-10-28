@@ -1,3 +1,15 @@
+import serial
+
+ser = serial.Serial('/dev/ttyACM0', 9600)
+last_state = None  # хранит предыдущее состояние
+
+while True:
+    line = ser.readline().decode().strip()
+    if line != last_state:
+        print(line)       # выводим только если изменилось
+        last_state = line
+
+
 ## Hi there 👋
 <div id="header" align="center">
   <img src="https://github.com/ofrsed/ofrsed/blob/main/bongo-cat-typing.gif" width="100"/>
