@@ -1,11 +1,20 @@
-curl -fsSL https://get.docker.com -o get-docker.sh
-sudo sh get-docker.sh
+  Upgrading: 0, Installing: 1, Removing: 0, Not Upgrading: 15
+  1 not fully installed or removed.
+  Download size: 0 B / 11.1 MB
+  Space needed: 61.6 MB / 50.3 GB available
 
-sudo docker --version
-
-sudo apt update
-sudo apt install docker-compose -y
-docker-compose --version
+(Reading database ... 121366 files and directories currently installed.)
+Preparing to unpack .../docker-compose_2.26.1-4_arm64.deb ...
+Unpacking docker-compose (2.26.1-4) ...
+dpkg: error processing archive /var/cache/apt/archives/docker-compose_2.26.1-4_a
+rm64.deb (--unpack):
+ trying to overwrite '/usr/libexec/docker/cli-plugins/docker-compose', which is 
+also in package docker-compose-plugin (2.40.2-1~debian.13~trixie)
+dpkg-deb: error: paste subprocess was killed by signal (Broken pipe)
+Errors were encountered while processing:
+ /var/cache/apt/archives/docker-compose_2.26.1-4_arm64.deb
+Error: Sub-process /usr/bin/dpkg returned an error code (1)
+root1@raspberrypi:~ $ 
 
 ## Hi there 👋
 <div id="header" align="center">
