@@ -1,16 +1,134 @@
-raspberrypi:~ $ xinput list
-WARNING: running xinput against an Xwayland server. See the xinput man page for details.
-⎡ Virtual core pointer                    	id=2	[master pointer  (3)]
-⎜   ↳ Virtual core XTEST pointer              	id=4	[slave  pointer  (2)]
-⎜   ↳ xwayland-pointer:15                     	id=6	[slave  pointer  (2)]
-⎜   ↳ xwayland-relative-pointer:15            	id=7	[slave  pointer  (2)]
-⎜   ↳ xwayland-pointer-gestures:15            	id=8	[slave  pointer  (2)]
-⎜   ↳ xwayland-touch:15                       	id=10	[slave  pointer  (2)]
-⎣ Virtual core keyboard                   	id=3	[master keyboard (2)]
-    ↳ Virtual core XTEST keyboard             	id=5	[slave  keyboard (3)]
-    ↳ xwayland-keyboard:15                    	id=9	[slave  keyboard (3)]
-root1@raspberrypi:~ $ ^C
-root1@raspberrypi:~ $ 
+rypi:~ $ ls /dev/input/
+by-id    event0  event10  event3  event5  event7  event9  mouse0  mouse2
+by-path  event1  event2   event4  event6  event8  mice    mouse1
+root1@raspberrypi:~ $ cat /proc/bus/input/devices 
+I: Bus=0003 Vendor=5566 Product=0008 Version=0110
+N: Name="RGBMicroChip PANTEON T2 PRO RS Keyboard"
+P: Phys=usb-0000:01:00.0-1.2/input0
+S: Sysfs=/devices/platform/scb/fd500000.pcie/pci0000:00/0000:00:00.0/0000:01:00.0/usb1/1-1/1-1.2/1-1.2:1.0/0003:5566:0008.0001/input/input0
+U: Uniq=2022-12-12
+H: Handlers=kbd leds event0 
+B: PROP=0
+B: EV=12001f
+B: KEY=33eff 0 0 483ffff17aff32d bfd4444600000000 1 130c730b17c007 ffa67bfad941dfff 80beffcd01cfffff febffbffdffffffe
+B: REL=1040
+B: ABS=100000000
+B: MSC=10
+B: LED=1f
+
+I: Bus=0003 Vendor=5566 Product=0008 Version=0110
+N: Name="RGBMicroChip PANTEON T2 PRO RS Mouse"
+P: Phys=usb-0000:01:00.0-1.2/input0
+S: Sysfs=/devices/platform/scb/fd500000.pcie/pci0000:00/0000:00:00.0/0000:01:00.0/usb1/1-1/1-1.2/1-1.2:1.0/0003:5566:0008.0001/input/input2
+U: Uniq=2022-12-12
+H: Handlers=mouse0 event1 
+B: PROP=0
+B: EV=17
+B: KEY=1f0000 0 0 0 0
+B: REL=1943
+B: MSC=10
+
+I: Bus=0003 Vendor=5566 Product=0008 Version=0110
+N: Name="RGBMicroChip PANTEON T2 PRO RS Wireless Radio Control"
+P: Phys=usb-0000:01:00.0-1.2/input0
+S: Sysfs=/devices/platform/scb/fd500000.pcie/pci0000:00/0000:00:00.0/0000:01:00.0/usb1/1-1/1-1.2/1-1.2:1.0/0003:5566:0008.0001/input/input3
+U: Uniq=2022-12-12
+H: Handlers=event2 
+B: PROP=0
+B: EV=13
+B: KEY=1 0 0 0 0
+B: MSC=10
+
+I: Bus=0003 Vendor=5566 Product=0008 Version=0110
+N: Name="RGBMicroChip PANTEON T2 PRO RS"
+P: Phys=usb-0000:01:00.0-1.2/input1
+S: Sysfs=/devices/platform/scb/fd500000.pcie/pci0000:00/0000:00:00.0/0000:01:00.0/usb1/1-1/1-1.2/1-1.2:1.1/0003:5566:0008.0002/input/input4
+U: Uniq=2022-12-12
+H: Handlers=sysrq kbd leds event3 
+B: PROP=0
+B: EV=120013
+B: KEY=1000000000007 ff9f207ac14057ff febeffdfffefffff fffffffffffffffe
+B: MSC=10
+B: LED=1f
+
+I: Bus=0003 Vendor=5566 Product=0008 Version=0110
+N: Name="RGBMicroChip PANTEON T2 PRO RS"
+P: Phys=usb-0000:01:00.0-1.2/input2
+S: Sysfs=/devices/platform/scb/fd500000.pcie/pci0000:00/0000:00:00.0/0000:01:00.0/usb1/1-1/1-1.2/1-1.2:1.2/0003:5566:0008.0003/input/input5
+U: Uniq=2022-12-12
+H: Handlers=event4 
+B: PROP=0
+B: EV=9
+B: ABS=10000000000
+
+I: Bus=001e Vendor=0000 Product=0000 Version=0001
+N: Name="vc4-hdmi-0"
+P: Phys=vc4-hdmi-0/input0
+S: Sysfs=/devices/platform/soc/fef00700.hdmi/rc/rc0/input6
+U: Uniq=
+H: Handlers=kbd event5 
+B: PROP=20
+B: EV=100017
+B: KEY=ffffc000000000 3ff 0 400000320fc200 40830c900000000 0 210300 49d2c040ec00 1e378000000000 8010000010000000
+B: REL=3
+B: MSC=10
+
+I: Bus=0000 Vendor=0000 Product=0000 Version=0000
+N: Name="vc4-hdmi-0 HDMI Jack"
+P: Phys=ALSA
+S: Sysfs=/devices/platform/soc/fef00700.hdmi/sound/card1/input7
+U: Uniq=
+H: Handlers=event6 
+B: PROP=0
+B: EV=21
+B: SW=40
+
+I: Bus=001e Vendor=0000 Product=0000 Version=0001
+N: Name="vc4-hdmi-1"
+P: Phys=vc4-hdmi-1/input0
+S: Sysfs=/devices/platform/soc/fef05700.hdmi/rc/rc1/input8
+U: Uniq=
+H: Handlers=kbd event7 
+B: PROP=20
+B: EV=100017
+B: KEY=ffffc000000000 3ff 0 400000320fc200 40830c900000000 0 210300 49d2c040ec00 1e378000000000 8010000010000000
+B: REL=3
+B: MSC=10
+
+I: Bus=0000 Vendor=0000 Product=0000 Version=0000
+N: Name="vc4-hdmi-1 HDMI Jack"
+P: Phys=ALSA
+S: Sysfs=/devices/platform/soc/fef05700.hdmi/sound/card2/input9
+U: Uniq=
+H: Handlers=event8 
+B: PROP=0
+B: EV=21
+B: SW=40
+
+I: Bus=001c Vendor=0000 Product=1ea6 Version=0000
+N: Name="ADS7846 Touchscreen"
+P: Phys=spi0.0/input0
+S: Sysfs=/devices/platform/soc/fe204000.spi/spi_master/spi0/spi0.0/input/input10
+U: Uniq=
+H: Handlers=mouse1 event9 
+B: PROP=0
+B: EV=b
+B: KEY=400 0 0 0 0 0
+B: ABS=1000003
+
+I: Bus=0005 Vendor=046d Product=b015 Version=0013
+N: Name="Logitech M720 Triathlon Multi-Device Mouse"
+P: Phys=2c:cf:67:f3:4c:06
+S: Sysfs=/devices/virtual/misc/uhid/0005:046D:B015.0004/input/input14
+U: Uniq=c9:d8:7c:c0:7b:e3
+H: Handlers=sysrq kbd mouse2 event10 
+B: PROP=0
+B: EV=100017
+B: KEY=ffff0000 1000000000007 ff800000000007ff febeffdfffefffff fffffffffffffffe
+B: REL=1943
+B: MSC=10
+
+
 
 ## Hi there 👋
 <div id="header" align="center">
