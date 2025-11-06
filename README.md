@@ -1,3 +1,16 @@
+raspberrypi:~ $ xinput list
+WARNING: running xinput against an Xwayland server. See the xinput man page for details.
+⎡ Virtual core pointer                    	id=2	[master pointer  (3)]
+⎜   ↳ Virtual core XTEST pointer              	id=4	[slave  pointer  (2)]
+⎜   ↳ xwayland-pointer:15                     	id=6	[slave  pointer  (2)]
+⎜   ↳ xwayland-relative-pointer:15            	id=7	[slave  pointer  (2)]
+⎜   ↳ xwayland-pointer-gestures:15            	id=8	[slave  pointer  (2)]
+⎜   ↳ xwayland-touch:15                       	id=10	[slave  pointer  (2)]
+⎣ Virtual core keyboard                   	id=3	[master keyboard (2)]
+    ↳ Virtual core XTEST keyboard             	id=5	[slave  keyboard (3)]
+    ↳ xwayland-keyboard:15                    	id=9	[slave  keyboard (3)]
+root1@raspberrypi:~ $ ^C
+root1@raspberrypi:~ $ 
 
 ## Hi there 👋
 <div id="header" align="center">
