@@ -1,3 +1,20 @@
+udo systemctl status docker
+[sudo] password for root1: 
+× docker.service - LSB: Create lightweight, portable, self-sufficient container>
+     Loaded: loaded (/etc/init.d/docker; generated)
+     Active: failed (Result: exit-code) since Fri 2025-11-07 11:07:03 GMT; 2 da>
+ Invocation: dcd7ddda65f346a29ac20dc8bb125fb1
+       Docs: man:systemd-sysv-generator(8)
+        CPU: 49ms
+
+Nov 07 11:07:03 raspberrypi systemd[1]: Starting docker.service - LSB: Create l>
+Nov 07 11:07:03 raspberrypi docker[607]: /usr/bin/dockerd not present or not ex>
+Nov 07 11:07:03 raspberrypi systemd[1]: docker.service: Control process exited,>
+Nov 07 11:07:03 raspberrypi systemd[1]: docker.service: Failed with result 'exi>
+Nov 07 11:07:03 raspberrypi systemd[1]: Failed to start docker.service - LSB: C>
+
+root1@raspberrypi:~ $ 
+
 
 ## Hi there 👋
 <div id="header" align="center">
