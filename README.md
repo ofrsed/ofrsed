@@ -1,19 +1,43 @@
-udo systemctl status docker
-[sudo] password for root1: 
-× docker.service - LSB: Create lightweight, portable, self-sufficient container>
-     Loaded: loaded (/etc/init.d/docker; generated)
-     Active: failed (Result: exit-code) since Fri 2025-11-07 11:07:03 GMT; 2 da>
- Invocation: dcd7ddda65f346a29ac20dc8bb125fb1
-       Docs: man:systemd-sysv-generator(8)
-        CPU: 49ms
+Обновляем систему:
 
-Nov 07 11:07:03 raspberrypi systemd[1]: Starting docker.service - LSB: Create l>
-Nov 07 11:07:03 raspberrypi docker[607]: /usr/bin/dockerd not present or not ex>
-Nov 07 11:07:03 raspberrypi systemd[1]: docker.service: Control process exited,>
-Nov 07 11:07:03 raspberrypi systemd[1]: docker.service: Failed with result 'exi>
-Nov 07 11:07:03 raspberrypi systemd[1]: Failed to start docker.service - LSB: C>
+sudo apt update
+sudo apt upgrade -y
 
-root1@raspberrypi:~ $ 
+
+Устанавливаем необходимые пакеты:
+
+sudo apt install -y ca-certificates curl gnupg lsb-release
+
+
+Добавляем GPG ключ Docker:
+
+sudo mkdir -p /etc/apt/keyrings
+curl -fsSL https://download.docker.com/linux/debian/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+
+
+Добавляем репозиторий Docker для ARM:
+
+echo \
+  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/debian \
+  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+
+
+Устанавливаем Docker:
+
+sudo apt update
+sudo apt install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+
+
+Проверяем версию Docker:
+
+docker --version
+
+
+Запускаем и включаем сервис:
+
+sudo systemctl enable docker
+sudo systemctl start docker
+sudo systemctl status docker
 
 
 ## Hi there 👋
