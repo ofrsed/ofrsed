@@ -136,7 +136,9 @@ sqlalchemy
 
 
 'sudo ufw status verbose'
+
 'sudo ufw deny 0000/tcp'
+
 'sudo ufw reload'
 
 ## interview questions
