@@ -135,6 +135,9 @@ sqlalchemy
 `alembic stamp head`
 
 
+'sudo ufw status verbose'
+'sudo ufw deny 0000/tcp'
+
 ## interview questions
 [for interview](https://github.com/ofrsed/Notes/blob/main/interview_questions.md)
 
