@@ -147,7 +147,9 @@ sqlalchemy
 
 `lock contention с OLTP-чтениями - конфликты блокировок с обычными чтениями бд`
 
-`Bloat - это разрастание БД из-за неиспользуемого/«мёртвого» места.`
+`Bloat - это разрастание БД из-за неиспользуемого/«мёртвого» места`
+
+`durability при отказе - сохранность транзакций при сбое`
 
 ## interview questions
 [for interview](https://github.com/ofrsed/Notes/blob/main/interview_questions.md)
