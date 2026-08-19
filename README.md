@@ -141,6 +141,10 @@ sqlalchemy
 
 'sudo ufw reload'
 
+## Заметки
+
+`p99 - это 99-й перцентиль (99% запросов должны выполняться не дольше указанного времени)`
+
 ## interview questions
 [for interview](https://github.com/ofrsed/Notes/blob/main/interview_questions.md)
 
