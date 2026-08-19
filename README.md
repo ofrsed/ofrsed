@@ -144,7 +144,10 @@ sqlalchemy
 ## Notes
 
 `p99 - это 99-й перцентиль (99% запросов должны выполняться не дольше указанного времени)`
+
 `lock contention с OLTP-чтениями - конфликты блокировок с обычными чтениями бд`
+
+`Bloat - это разрастание БД из-за неиспользуемого/«мёртвого» места.`
 
 ## interview questions
 [for interview](https://github.com/ofrsed/Notes/blob/main/interview_questions.md)
